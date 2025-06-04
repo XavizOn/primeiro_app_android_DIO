@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "br.com.devandroid.primeiroappdio.app-mergeDebugResources-31:/values-en/values-en.xml",
+            "map": [
+                {
+                    "source": "C:\\android\\appOne\\primeiro_app_android_DIO\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "57,111",
+                        "endColumns": "52,53",
+                        "endOffsets": "105,160"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,108",
+                        "endColumns": "52,53",
+                        "endOffsets": "103,157"
+                    }
+                }
+            ]
+        }
+    ]
+}
