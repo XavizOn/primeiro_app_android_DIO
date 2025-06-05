@@ -61,7 +61,9 @@
         <option value="MarcioRamos &lt;devgolangdev@gmail.com&gt;" />
       </list>
     </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -191,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749080162211</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit desafio alunos do curso ENTENDENDO A ESTRUTURA E DEPURANDO APPS">
+      <option name="closed" value="true" />
+      <created>1749080465760</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749080465760</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
